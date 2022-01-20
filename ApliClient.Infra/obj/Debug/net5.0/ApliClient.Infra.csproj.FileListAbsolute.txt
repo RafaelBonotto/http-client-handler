@@ -1,0 +1,12 @@
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\bin\Debug\net5.0\ApliClient.Infra.deps.json
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\bin\Debug\net5.0\ApliClient.Infra.dll
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\bin\Debug\net5.0\ref\ApliClient.Infra.dll
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\bin\Debug\net5.0\ApliClient.Infra.pdb
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.csproj.AssemblyReference.cache
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.AssemblyInfoInputs.cache
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.AssemblyInfo.cs
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.dll
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ref\ApliClient.Infra.dll
+C:\Projetos\App-colaboracao-backend-refatoracao\ColaboracaoBackend\ApliClient.Infra\obj\Debug\net5.0\ApliClient.Infra.pdb
